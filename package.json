@@ -1,0 +1,23 @@
+{
+  "name": "refactoring-exercise-js-approvals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greatersum/refactoring-exercise-js-approvals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greatersum/refactoring-exercise-js-approvals/issues"
+  },
+  "homepage": "https://github.com/greatersum/refactoring-exercise-js-approvals#readme",
+  "devDependencies": {
+    "approvals": "^3.0.5",
+    "mocha": "^6.2.0"
+  }
+}
